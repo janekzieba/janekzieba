@@ -1,9 +1,5 @@
 # Hi there! 👋 I'm Jan Zięba
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=JAN_ZIEMBA_GITHUB&color=blue&style=flat-square&label=PROFILE+VIEWS" alt="views" />
-</p>
-
 ## About Me
 
 I am a Software Engineer and Data Analytics enthusiast currently pursuing a **Master’s Degree in Computer Science in Engineering at AGH University of Science and Technology**.
