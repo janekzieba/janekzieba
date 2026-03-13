@@ -23,6 +23,8 @@ My main interests are **machine learning, data-driven systems, and scalable soft
   <br>
   <img src="https://img.shields.io/badge/Web%20Development-000000?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Web Dev" />
   <img src="https://img.shields.io/badge/Data%20Analysis-4B0082?style=for-the-badge&logo=python&logoColor=white" alt="Data Analysis" />
+  <img src="https://img.shields.io/badge/Graphic%20Design-FF61F6?style=for-the-badge&logo=adobe-creative-cloud&logoColor=white" alt="Graphic Design" />
+  <img src="https://img.shields.io/badge/Computer%20Graphics-4B0082?style=for-the-badge&logo=opengl&logoColor=white" alt="Graphics" />
 </div>
 
 ## Languages & Tools
