@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Jan Ziemba
+# Hi there! 👋 I'm Jan Zięba
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=JAN_ZIEMBA_GITHUB&color=blue&style=flat-square&label=PROFILE+VIEWS" alt="views" />
